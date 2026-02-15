@@ -15,5 +15,5 @@ My name is Nate Diaz, I'm currently a graduate student and I have a Bachelor of 
 
 ## Contact
 - Email: ndiazsan@proton.me  
-- LinkedIn: [linkedin.com/in/natediaz](https://linkedin.com/in/nate-diaz)  
+- LinkedIn: [linkedin.com/in/nate-diaz](https://linkedin.com/in/nate-diaz)  
 - GitHub: [github.com/natethecat](https://github.com/natethecat)
