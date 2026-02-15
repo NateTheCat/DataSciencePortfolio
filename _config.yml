@@ -1,3 +1,17 @@
-title: Nate Diaz
-description: Testing
-theme: minima
+title: Data Science Portfolio
+description: Data Science & Machine Learning Projects
+remote_theme: brianmaierjr/long-haul
+plugins:
+  - jekyll-remote-theme
+
+paginate: 5
+
+navigation:
+  - text: About
+    url: /about
+  - text: Projects
+    url: /projects
+  - text: Contact
+    url: /contact
+
+header: large
