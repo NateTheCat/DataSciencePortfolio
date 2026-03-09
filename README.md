@@ -56,6 +56,6 @@ Developed machine learning classification models to predict obesity levels using
 [View](./Obesity%20Level%20Prediction%20in%20Latin%20American%20Cities/)
 
 ## Contact
-- Email: ndiazsan@proton.me  
+- Email: [ndiazsan@proton.me](mailto:ndiazsan@proton.me)
 - LinkedIn: [linkedin.com/in/nate-diaz](https://linkedin.com/in/nate-diaz)  
 - GitHub: [github.com/natethecat](https://github.com/natethecat)
