@@ -1,7 +1,7 @@
 # Data Science Portfolio
 
 ## About Me
-My name is Nate Diaz, I'm currently a graduate student and I have a Bachelor of Science in Computer Science, and I'm working on my Master of Science in Data Science.
+My name is Nate Diaz-Santana, and I recently completed my Master of Science in Data Science, along with a Bachelor of Science in Computer Science.
 
 ## Projects
 
